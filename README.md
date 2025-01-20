@@ -57,10 +57,10 @@ A passionate aspiring software engineer dedicated to creating impactful solution
 ## 💡 Fun Widgets
 
 ### 🕒 Time Spent Coding This Week
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=OsbornNyakaru&theme=radical)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=osbornnyakaru&theme=radical)
 
 ### 🚀 Productivity Overview
-![Metrics](https://github.com/OsbornNyakaru/github-metrics/blob/main/metrics.svg)
+![Metrics](https://github.com/osbornnyakaru/github-metrics/blob/main/metrics.svg)
 
 ---
 
