@@ -50,7 +50,7 @@ A passionate aspiring software engineer dedicated to creating impactful solution
 
 ### 📅 Streaks
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexjohnson&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OsbornNyakaru&theme=radical)
 
 ---
 
