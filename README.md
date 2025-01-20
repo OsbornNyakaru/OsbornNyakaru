@@ -48,11 +48,19 @@ A passionate aspiring software engineer dedicated to creating impactful solution
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=OsbornNyakaru&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OsbornNyakaru&layout=compact&theme=radical)
 
+### 📅 Streaks
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexjohnson&theme=radical)
+
 ---
 
-## 🎨 Dynamic Content
+## 💡 Fun Widgets
 
-- **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=OsbornNyakaru&color=brightgreen)
+### 🕒 Time Spent Coding This Week
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexjohnson&theme=radical)
+
+### 🚀 Productivity Overview
+![Metrics](https://github.com/alexjohnson/github-metrics/blob/main/metrics.svg)
 
 ---
 
@@ -68,7 +76,7 @@ A passionate aspiring software engineer dedicated to creating impactful solution
 
 - Launch a startup code-named **"Wire"** focused on impactful tech solutions.
 - Expand prompt-sharing tools to enhance education in institutions.
-- Explore more in MLOps and cloud-based solutions.
+- Explore ML and cloud-based solutions more.
 
 ---
 
