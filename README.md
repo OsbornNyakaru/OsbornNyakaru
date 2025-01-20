@@ -1,8 +1,8 @@
-# Hi there 👋
+# Hi there 👋I'm Osborn Nyakaru
 
-I'm Osborn Nyakaru, a passionate aspiring software engineer dedicated to creating impactful solutions with clean and efficient code. I'm driven by challenges and a strong curiosity for learning new technologies.
+A passionate aspiring software engineer dedicated to creating impactful solutions with clean and efficient code. I'm driven by challenges and a strong curiosity for learning new technologies.
 
-- 🌱 Currently diving deep into **AI** and **Machine Learning**.
+- 🌱 Currently diving deep into **AI**, **Data Science** and **Machine Learning**.
 - 💼 Open to collaborating on projects related to **Decentralized Applications (DApps)**, **Impactful and Community-Driven Innovations** and **Data Analysis Solutions**.
 - 📫 How to reach me: osbornnyakaru44@gmail.com
 - ⚡ Fun fact: The average smartphone today has more computing power than NASA’s computers during the Apollo moon landings!
@@ -11,9 +11,9 @@ I'm Osborn Nyakaru, a passionate aspiring software engineer dedicated to creatin
 
 ## 🌐 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NyakaruOsborn)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nyakaru-osborn)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/osborn.nyakaru)
 
 ---
 
