@@ -37,7 +37,6 @@ A passionate aspiring software engineer dedicated to creating impactful solution
 
 ## 🔥 Interesting Contributions
 
-- Contributed to [airbnb/javascript](https://github.com/airbnb/javascript), a popular JavaScript Style Guide.
 - Built and contributed to platforms for local business analytics and accountability tools.
 - Developed prompt-sharing tools for generative AI.
 
@@ -59,7 +58,7 @@ A passionate aspiring software engineer dedicated to creating impactful solution
 
 ## 🎯 Goals for 2025
 
-- Launch a startup code-named **"Wire"** focused on impactful tech solutions.
+- Launch a startup code-named **"Waya"** focused on impactful tech solutions.
 - Expand prompt-sharing tools to enhance education in institutions.
 - Explore ML and cloud-based solutions more.
 
