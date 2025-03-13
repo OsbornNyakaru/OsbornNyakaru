@@ -48,11 +48,6 @@ A passionate aspiring software engineer dedicated to creating impactful solution
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=OsbornNyakaru&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OsbornNyakaru&layout=compact&theme=radical)
 
-### 📅 Streaks
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OsbornNyakaru&theme=radical)
-
----
 
 ## 🧑‍💻 Current Projects
 
