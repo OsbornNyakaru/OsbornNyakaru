@@ -1,6 +1,6 @@
 # Hi there 👋I'm Osborn Nyakaru
 
-A passionate aspiring data engineer dedicated to creating impactful solutions with clean and efficient code. I'm driven by challenges and a strong curiosity for learning new technologies.
+A passionate builder and aspiring tech-entrepreneur dedicated to creating impactful solutions with clean and efficient code. I'm driven by challenges and a strong curiosity for learning new technologies.
 
 - 🌱 Currently diving deep into **AI**, **Data Science** and **Machine Learning**.
 - 💼 Open to collaborating on projects related to **Decentralized Applications (DApps)**, **Impactful and Community-Driven Innovations** and **Data Analysis Solutions**.
