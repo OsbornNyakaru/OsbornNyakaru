@@ -54,7 +54,7 @@ A passionate builder and aspiring tech-entrepreneur dedicated to creating impact
 
 ## 🎯 Goals for 2025
 
-- Launch a startup code-named **"Waya"** focused on impactful tech solutions.
+- Launch a startup code-named **"Chiromo"** focused on impactful tech solutions.
 - Expand prompt-sharing tools to enhance education in institutions.
 - Explore ML and cloud-based solutions more.
 
